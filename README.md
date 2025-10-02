@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3V1Z3RpbDM2OXBubTg4aTJkNWdtMnBqbXFqamI5YWJteW16Nms2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2SpXaJA67JaSqSxq/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3V1Z3RpbDM2OXBubTg4aTJkNWdtMnBqbXFqamI5YWJteW16Nms2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2SpXaJA67JaSqSxq/giphy.gif" width="400" />
     <h1 align="center"> PROJECT: TEXT PROCESSING WITH K-MEANS, BERT & CLASSIFICATION MODELS </h1>
 </div>
 
