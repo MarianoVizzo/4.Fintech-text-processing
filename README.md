@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnpwZzJrb3hoNnhwNzJqNHFua2ZqNG9tZTRmbmtqaW11a3V3NGQ3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3V1Z3RpbDM2OXBubTg4aTJkNWdtMnBqbXFqamI5YWJteW16Nms2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2SpXaJA67JaSqSxq/giphy.gif" width="200" />
     <h1 align="center"> PROJECT: TEXT PROCESSING WITH K-MEANS, BERT & CLASSIFICATION MODELS </h1>
 </div>
 
@@ -15,9 +15,9 @@
 ### OBJECTIVES
 **1.** Apply clustering techniques (K-Means) to group similar documents.  
 **2.** Generate embeddings with **BERT** to capture semantic context.  
-3. Train and evaluate predictive classification models (Logistic Regression, Random Forest, SVM, Gradient Boosting, KNN).  
-4. Apply **topic modeling (LDA)** to identify latent themes.  
-5. Build a methodological pipeline to process text data for research purposes.
+**3.** Train and evaluate predictive classification models (Logistic Regression, Random Forest, SVM, Gradient Boosting, KNN).  
+**4.** Apply **topic modeling (LDA)** to identify latent themes.  
+**5.** Build a methodological pipeline to process text data for research purposes.
 
 ---
 
@@ -34,26 +34,26 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem4zamFrZXEydjB5Znk1aXZmOHN2YzRkOXJ1aW84M2d2aTVkMWVoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="300" />  
 </div>
 
-1) **Exploratory Data Analysis (EDA)**: word frequencies, histograms, length distributions.  
-2) **Clustering**: TF-IDF vectorization + K-Means to group texts.  
-3) **Embeddings with BERT**: creation of contextual word vectors.  
-4) **Classification Models**: Logistic Regression, Random Forest, SVM, Gradient Boosting, KNN.  
-5) **SMOTE**: balancing classes for better prediction performance.  
-6) **Topic Modeling with LDA**: extracting latent themes from the corpus.  
+**1)** **Exploratory Data Analysis (EDA)**: word frequencies, histograms, length distributions.  
+**2)** **Clustering**: TF-IDF vectorization + K-Means to group texts.  
+**3)** **Embeddings with BERT**: creation of contextual word vectors.  
+**4)** **Classification Models**: Logistic Regression, Random Forest, SVM, Gradient Boosting, KNN.  
+**5)** **SMOTE**: balancing classes for better prediction performance.  
+**6)** **Topic Modeling with LDA**: extracting latent themes from the corpus.  
 
 ---
 
 ## D. HOW TO READ/USE THE FILES?
 
-1) 📄 **Report (PDF):**  
+**1)** 📄 **Report (PDF):**  
    `VIZZO_Actividad de Evaluación_Procesamiento de datos de texto.pdf`  
    → Contains the full academic report with analysis, results, and conclusions.
 
-2) 💻 **Notebook (Colab):**  
+**2)** 💻 **Notebook (Colab):**  
    `TP_Procesamiento_de_textos_Mariano_Vizzo.ipynb`  
    → Contains Python code for preprocessing, clustering, embeddings, training and evaluation.
 
-3) ⚙️ **Execution Requirements:**  
+**3)** ⚙️ **Execution Requirements:**  
    - Python 3.10+  
    - Main libraries: `pandas`, `numpy`, `scikit-learn`, `nltk`, `gensim`, `transformers`, `torch`, `matplotlib`, `seaborn`, `wordcloud`
 
