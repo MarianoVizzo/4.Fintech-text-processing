@@ -13,8 +13,8 @@
 - The focus is on **predicting investment decisions of digital wallet users** in the context of Argentine and Latin American Fintech.
 
 ### OBJECTIVES
-1. Apply clustering techniques (K-Means) to group similar documents.  
-2. Generate embeddings with **BERT** to capture semantic context.  
+**1.** Apply clustering techniques (K-Means) to group similar documents.  
+**2.** Generate embeddings with **BERT** to capture semantic context.  
 3. Train and evaluate predictive classification models (Logistic Regression, Random Forest, SVM, Gradient Boosting, KNN).  
 4. Apply **topic modeling (LDA)** to identify latent themes.  
 5. Build a methodological pipeline to process text data for research purposes.
